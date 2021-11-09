@@ -1,16 +1,24 @@
-# Holiday-Recommendation-System
+# Holiday-Recommendation-System (HRS)
 
 
 
 
 ## Authors
 
-[Mithilesh](https://github.com/Mithilesh-V)
-
 [Nishanth Gobi](https://github.com/Nishanth-Gobi)
+
+[Mithilesh](https://github.com/Mithilesh-V)
 
 [Joel Marceline](https://github.com/Joel-Marc)
 
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install HRS.
+
+```bash
+pip install -r requirements.txt
+```
 
 ## License
 
