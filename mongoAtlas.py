@@ -25,7 +25,7 @@ def loadToMongo():
     reviews = database.reviews
     new_reviews = []
 
-    filename = "test.csv"
+    filename = "Review_db.csv"
     with open(filename, 'r') as csvfile:
 
         csv_reader = csv.reader(csvfile)
